@@ -36,8 +36,8 @@ This project focuses on layout accuracy, responsiveness, and modern UI styling.
 
 ## 📂 Project Structure
 
-├── index.html # Main homepage
-├── Galleria.html # Prada Galleria page
-├── style.css # Homepage styles
-├── galleria.css # Galleria page styles
-└── README.md # Project documentation
+├── `index.html` # Main homepage
+├── `Galleria.html` # Prada Galleria page
+├── `style.css` # Homepage styles
+├── `galleria.css` # Galleria page styles
+└── `README.md` # Project documentation
